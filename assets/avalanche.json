@@ -1,0 +1,81 @@
+{
+    "stableAssets": [
+      {
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "symbol": "USDC"
+      },
+      {
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "symbol": "USDT"
+      },
+      {
+        "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+        "symbol": "USDCe"
+      },
+      {
+        "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+        "symbol": "USDTe"
+      },
+      {
+        "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "symbol": "DAI"
+      }
+    ],
+    "pricingAssets": [
+      {
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB", 
+        "symbol": "WETH"
+      },
+      {
+        "address": "0xB26f0e66317846Bd5fE0cBAa1d269f0efEb05c96",
+        "symbol": "USDC-USDT-BPT"
+      },
+      {
+        "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+        "symbol": "sAVAX"
+      },
+      {
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "symbol": "BTCb"
+      },
+      {
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7", 
+        "symbol": "wAVAX"
+      },
+      {
+        "address": "0x7275c131b1F67e8B53b4691F92B0E35A4c1C6e22",
+        "symbol": "bb-a-WAVAX-V3"
+      },
+      {
+        "address": "0xa1D14d922a575232066520EDA11E27760946c991",
+        "symbol": "bb-a-USD-V3"
+      }
+    ],
+    "fxAssetAggregators": [
+      {
+        "asset": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "assetSymbol": "USDC",
+        "aggregator": "0xfBd998938f8f7210eEC3D1e12E80A10972F02aEd",
+        "aggregatorSymbol": "USDC/USD"
+      },
+      {
+        "asset": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+        "assetSymbol": "EUROC",
+        "aggregator": "0x95Edda00bCE60f99Fb0bE38fE500eBd879AB651a",
+        "aggregatorSymbol": "EUR/USD"
+      },
+      {
+        "asset": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
+        "assetSymbol": "VEUR",
+        "aggregator": "0x95Edda00bCE60f99Fb0bE38fE500eBd879AB651a",
+        "aggregatorSymbol": "EUR/USD"
+      },
+      {
+        "asset": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+        "assetSymbol": "VCHF",
+        "aggregator": "0x3D22B2c729A952402d898D1041F5E4828FF3695c",
+        "aggregatorSymbol": "CHF/USD"
+      }
+    ]
+  }
+  

@@ -1,0 +1,96 @@
+{
+  "stableAssets": [
+    {
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "symbol": "USDT"
+    }
+  ],
+  "pricingAssets": [
+    {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270", 
+      "symbol": "WMATIC"
+    },
+    {
+      "address": "0xE4885Ed2818Cc9E840A25f94F9b2A28169D1AEA7",
+      "symbol": "bb-a-WMATIC-V3"
+    },
+    {
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619", 
+      "symbol": "WETH"
+    },
+    {
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6", 
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3", 
+      "symbol": "BAL"
+    },
+    {
+      "address": "0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f",
+      "symbol": "B-80BAL-20WETH"
+    },
+    {
+      "address": "0x48e6b98ef6329f8f0a30ebb8c7c960330d648085",
+      "symbol": "bb-am-USD"
+    }
+  ],
+  "fxAssetAggregators": [
+    {
+      "asset": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "assetSymbol": "USDC",
+      "aggregator": "0xf9c53A834F60cBbE40E27702276fBc0819B3aFAD",
+      "aggregatorSymbol": "USDC/USD"
+    },
+    {
+      "asset": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+      "assetSymbol": "XSGD",
+      "aggregator": "0x45ede0Ea5cBbE380C663C7C3015Cc7c986669FEc",
+      "aggregatorSymbol": "SGD/USD"
+    },
+    {
+      "asset": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "assetSymbol": "DAI",
+      "aggregator": "0x62439095489Eb5dE4572de632248682c09a05Ad4",
+      "aggregatorSymbol": "DAI/USD"
+    },
+    {
+      "asset": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+      "assetSymbol": "EURS",
+      "aggregator": "0x310990E8091b5cF083fA55F500F140CFBb959016",
+      "aggregatorSymbol": "EUR/USD"
+    },
+    {
+      "asset": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
+      "assetSymbol": "BRLA",
+      "aggregator": "0x6DBd1be1a83005d26b582D61937b406300B05A8F",
+      "aggregatorSymbol": "BRL/USD"
+    },
+    {
+      "asset": "0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400",
+      "assetSymbol": "VNXAU",
+      "aggregator": "0x704179beB09282EaEf98CA8aaa443C1E273eBBc2",
+      "aggregatorSymbol": "XAU/USD"
+    },
+    {
+      "asset": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
+      "assetSymbol": "VCHF",
+      "aggregator": "0x8123bEaCB5bca3AfA0C9ff71B28549d58cEc8176",
+      "aggregatorSymbol": "CHF/USD"
+    },
+    {
+      "asset": "0xE4095d9372E68d108225c306A4491cacfB33B097",
+      "assetSymbol": "VEUR",
+      "aggregator": "0x310990E8091b5cF083fA55F500F140CFBb959016",
+      "aggregatorSymbol": "EUR/USD"
+    }
+  ]
+}
